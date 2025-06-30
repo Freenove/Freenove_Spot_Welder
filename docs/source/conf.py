@@ -114,8 +114,8 @@ html_css_files = [
 ]
 
 html_js_files = [
-    #'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs/docs/source/_static/js/custom.js',
-    'js/custom.js'
+    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs/docs/source/_static/js/custom.js',
+    # 'js/custom.js'
 ]
 
 extlinks = {
